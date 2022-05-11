@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap');
+
+*{
+    font-family: 'Poppins';
+}
+
+body{
+    background-image:url(../images/pesawat.png); 
+    background-size:cover; 
+    background-attachment: fixed; 
+}
+
+h1{
+    color: rgb(154, 234, 236);
+}
+h2{
+    color: rgb(154, 234, 236);
+}
+.container p{
+    color: rgb(255, 255, 255);
+}
